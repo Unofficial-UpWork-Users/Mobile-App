@@ -1,6 +1,7 @@
 ---
 name: Unofficial feature request for UpWork's UpWork.com web application
-about: Create a feature request to help them improve the UpWork.com web application [Unofficial]
+about: Create a feature request to help them improve the UpWork.com web application
+  [Unofficial]
 
 ---
 
