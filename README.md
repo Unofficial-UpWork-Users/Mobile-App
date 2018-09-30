@@ -1,6 +1,6 @@
 # UN-OFFICIAL !!!
 
-The https://github.com/Unofficial-UpWork-Users/Web-Application is not affiliated with Upwork Global Inc or vendors, partners, or parent companies, or employees. 
+The https://github.com/Unofficial-UpWork-Users/Mobile-App is not affiliated with Upwork Global Inc or vendors, partners, or parent companies, or employees. 
 
 User Groups having some independence has plenty of precidence in the industry: [Oracle users in 1990 being a well known example](http://www.orafaq.com/wiki/IOUW).
 
