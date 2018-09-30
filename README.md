@@ -4,6 +4,8 @@ The https://github.com/Unofficial-UpWork-Users/Web-Application is not affiliated
 
 User Groups having some independence has plenty of precidence in the industry: [Oracle users in 1990 being a well known example](http://www.orafaq.com/wiki/IOUW).
 
+**You want OFFICIAL SUPPORT? If yes then go here: ** https://support.upwork.com
+
 ## Rules:
 
 1. Don't expect anyone from UpWork to read anything written here. You're sharing for informational purposes with other UpWork users.
