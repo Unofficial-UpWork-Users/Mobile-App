@@ -9,7 +9,7 @@ about: Create a report to help them improve the UpWork.com web application [Unof
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-Drag a screen-shot from your desktop to the editing window to make it really clear what you are talking about.
+Drag a screen-shot from your desktop to the THIS editing window to make it really clear what you are talking about.
 
 **To Reproduce**
 Steps to reproduce the behavior:
